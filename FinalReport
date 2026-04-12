@@ -1,9 +1,1 @@
-# IEOR_Individual_project_UmmeHani
-Medical Diagnosis — use Bayes to predict if a patient has a disease based on symptoms. Very classic Bayes example — like "given fever + cough, what's P(flu)?" Great for showing the theorem in a non-CS context.
-Weather Prediction — given today's weather features, predict tomorrow (rainy/sunny). Uses conditional probability tables, very visual and intuitive.
-Credit Card Fraud Detection — classify transactions as fraud or genuine based on amount, time, location patterns. Very real-world and impactful.
 
-I am presenting an application of Bayes theorem 
-So I am preparing a model which classifies emails as spam and non spam 
-this uses bayes theorem
-should i take some more examples 
